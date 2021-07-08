@@ -22,5 +22,5 @@ boolean getResult() {
 }
 ```
 
-#We know, we are very proud of ourselves :)
+#We know, we are very proud of ourselves (:
     
