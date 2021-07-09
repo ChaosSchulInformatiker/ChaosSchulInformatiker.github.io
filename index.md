@@ -9,7 +9,7 @@ To solve this issue we like to ask Google and discover that the Stackoverflow du
 Our favourite programming language is Kotlin because it's simple but yet very effective.
 
 The code sample that defines our work the most is:
-```cs
+```java
 boolean result;
 
 boolean getResult() {
@@ -21,4 +21,4 @@ boolean getResult() {
 }
 ```
 
-# We know, we are very proud of ourselves (:
+We know, we are very proud of ourselves (:
