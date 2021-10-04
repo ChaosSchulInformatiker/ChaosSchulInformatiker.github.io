@@ -1,6 +1,5 @@
-## Welcome to Q11 at Maristenkolleg
-
-We are the 11th grade class of the Maristenkolleg high school. 
+## Welcome to ChaosSchulInformatiker (Chaos school IT guys)
+We are the 12th grade class of the Maristenkolleg high school. 
 
 ### About Us
 
